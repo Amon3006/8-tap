@@ -1,0 +1,11 @@
+{
+  "name": "tap8",
+  "displayName": "tap8",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4887afcd-47d6-4f60-8a93-af5f1be3054d"
+      }
+    }
+  }
+}
